@@ -1,2 +1,6 @@
 # 'given' is a repository I use for given content from coding bootcamp i.e. the mini project and the challenge readme
 -given
+
+node_modules
+
+package-lock.json
