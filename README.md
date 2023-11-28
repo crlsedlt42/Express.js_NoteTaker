@@ -8,17 +8,14 @@ The goal is to use this application to learn how to create my own API routes.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contribution](#contribution)
 - [Future Development](#future-development)
 
-## Installation
-
-
-
 ## Usage
 
-![screenshot](assets/images/screenshot.png)
+![screenshot](/public/assets/images/Challenge_11-NoteTakerApp.jpg)
+
+[Heroku Deployment Page](https://aqueous-shore-58915-8ccef9905c7c.herokuapp.com/)
 
 ## License
 
